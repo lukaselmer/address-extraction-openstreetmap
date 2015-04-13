@@ -4,7 +4,9 @@ Extracts addresses from .pbf files.
 
 ## Installation
 
-Install http://imposm.org/docs/imposm.parser/latest/
+* Install pyenv
+* Install the correct python version (see .python-version)
+* Install http://imposm.org/docs/imposm.parser/latest/
 
 ## Usage
 
