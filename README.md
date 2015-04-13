@@ -1,6 +1,6 @@
 # Address Extraction from OpenStreetMap Data
 
-Extracts addresses from .pbf files.
+Extracts addresses from .pbf files to .csv files.
 
 ## Installation
 
